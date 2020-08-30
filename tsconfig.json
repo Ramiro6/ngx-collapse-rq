@@ -17,7 +17,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-collapse-rq": [
+        "dist/ngx-collapse-rq/ngx-collapse-rq",
+        "dist/ngx-collapse-rq"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
